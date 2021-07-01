@@ -1,3 +1,3 @@
 # Show & Tell Application
 
-A simple project/task application using Ruby on Rails. 
+Howdy, this is a simple project/task application using Ruby on Rails. 
